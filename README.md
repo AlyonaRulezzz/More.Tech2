@@ -11,4 +11,5 @@
 
 
 ## Команда "Пятеро в тачке без драйвера"
-
+## Макет сайта https://www.figma.com/proto/sWzyjCiijceGCYJ3qoIoln/Untitled?node-id=11%3A823&scaling=contain&page-id=0%3A1
+## Презентация https://docs.google.com/presentation/d/1ra-hi3KNmRUuY-z9a3nn89RjtczdgOIepf0GawTgino/edit?usp=sharing
